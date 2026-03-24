@@ -1,0 +1,14 @@
+C:\Users\mauri\OneDrive\Documentos\FIAP\2026\2tdspi\ModificadoresDeAcesso\ModificadoresDeAcesso\bin\Debug\net10.0\ModificadoresDeAcesso.exe
+C:\Users\mauri\OneDrive\Documentos\FIAP\2026\2tdspi\ModificadoresDeAcesso\ModificadoresDeAcesso\bin\Debug\net10.0\ModificadoresDeAcesso.deps.json
+C:\Users\mauri\OneDrive\Documentos\FIAP\2026\2tdspi\ModificadoresDeAcesso\ModificadoresDeAcesso\bin\Debug\net10.0\ModificadoresDeAcesso.runtimeconfig.json
+C:\Users\mauri\OneDrive\Documentos\FIAP\2026\2tdspi\ModificadoresDeAcesso\ModificadoresDeAcesso\bin\Debug\net10.0\ModificadoresDeAcesso.dll
+C:\Users\mauri\OneDrive\Documentos\FIAP\2026\2tdspi\ModificadoresDeAcesso\ModificadoresDeAcesso\bin\Debug\net10.0\ModificadoresDeAcesso.pdb
+C:\Users\mauri\OneDrive\Documentos\FIAP\2026\2tdspi\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\OneDrive\Documentos\FIAP\2026\2tdspi\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.AssemblyInfoInputs.cache
+C:\Users\mauri\OneDrive\Documentos\FIAP\2026\2tdspi\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.AssemblyInfo.cs
+C:\Users\mauri\OneDrive\Documentos\FIAP\2026\2tdspi\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Documentos\FIAP\2026\2tdspi\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.dll
+C:\Users\mauri\OneDrive\Documentos\FIAP\2026\2tdspi\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\net10.0\refint\ModificadoresDeAcesso.dll
+C:\Users\mauri\OneDrive\Documentos\FIAP\2026\2tdspi\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.pdb
+C:\Users\mauri\OneDrive\Documentos\FIAP\2026\2tdspi\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.genruntimeconfig.cache
+C:\Users\mauri\OneDrive\Documentos\FIAP\2026\2tdspi\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\net10.0\ref\ModificadoresDeAcesso.dll
